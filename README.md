@@ -1,5 +1,5 @@
 👋 Hi, I’m @SylviaBABY
-- 💻 对文章结构和细节有追求的 Technical Writer
+- 💻 Writer（Mac&iOS&Life&Fitness）
 - 🌱 风景和天空摄影爱好者，自然之美仍需探索
 - 💞️ 喜欢健身撸铁，也爱模仿萝莉音和动画音，没事喜欢自娱自乐给动画片配音
 - 📣 在家远程懒得运动？[办公室轻健身指南](https://sspai.com/series/79)让你轻松办公还不忘身体，随手点点感谢老板～
