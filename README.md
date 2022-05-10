@@ -2,8 +2,8 @@
 - 💻 A Writer Share Moments about Mac&iOS&Life&Fitness&Open Source
 - 🌱 A Photographer Love Landscape⛰️ and Sky☁️
 - 💞️ Like Fitness, especially **Strength Training**🏋️‍♀️; Also try various **BALL games**🏀🎱🏓🏸, as well as **Archery**🏹
-- 🤎 Also **CUTE GRIL** like to match some cute cartoon characters
-- 📫 How to reach me ➡️sylviasu@apache.org
+- 🤎 Also like to match some Cute Cartoon characters
+- 📫 How to Reach me ➡️sylviasu@apache.org
 
 <h2 align="center">
 ✨ Life Details You Can Know Me More(Chinese Content) ✨
