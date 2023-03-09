@@ -17,7 +17,9 @@
 
 - 👀 健身多年没点成果可还行，[点此查看](https://sspai.com/post/68828)并猜猜哪个是我🤪
 
-- 🎙️ 或许还是一个[热爱开源喜欢远程办公](https://eleduck.com/posts/rdfEoD)的女娃，已晋升为 Apache APISIX Committer，目前 Work From Home 
+- 🎙️ 或许还是一个[热爱开源喜欢远程办公](https://eleduck.com/posts/rdfEoD)的女娃，已晋升为 Apache APISIX Committer。
+
+- 😷 目前身体因生病还在恢复中，中间穿插在不同城市之间游玩，去会面网上邻居们。
 
 <!---
 SylviaBABY/SylviaBABY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
