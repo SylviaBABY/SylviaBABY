@@ -19,7 +19,7 @@
 
 - 🎙️ 或许还是一个[热爱开源喜欢远程办公](https://eleduck.com/posts/rdfEoD)的女娃，已晋升为 Apache APISIX Committer。
 
-- 😷 目前身体因生病还在恢复中，中间穿插在不同城市之间游玩，去会面网上邻居们。
+- 😷 目前身体因生病还在恢复中，在家休息的同时会穿插在不同城市之间游玩，去会面网上邻居们。如果有任何远程工作机会，欢迎随时邮件沟通 ^ ^
 
 <!---
 SylviaBABY/SylviaBABY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
