@@ -7,9 +7,9 @@
 💻 Besides lifestyle writer, I also share open-source as an Apache Committer, work as a Technical Writer.
   - 🎙️ The first open-source book `《Apache APISIX 实战》` which I am solely responsible has been successfully completed. I only propose here to commemorate my small personal contribution to open source projects. After all, the growth of the open source community comes from collective contributions.
 
-🌱 INFJ who loves shooting every adorable moment; Sometimes change to ENFJ.
+🌱 ENTP who loves shooting every adorable moment. Studying in Ireland🇮🇪 for Master degree in UCD.
 
-💞️ Like Fitness, especially **Strength Training**🏋️‍♀️; Also try various BALL games🏀🎱🏓🏸, as well as Archery.
+💞️ Like Fitness, especially **Strength Training**🏋️‍♀️; Also try various BALL games🏀🎱🏓🏸🎾, as well as Archery.
 
 🫡 Welcome any job opportunities related to Writer or Fitness, you can communicate by email 📮sylviasu@apache.org at any time.
 
